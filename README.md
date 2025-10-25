@@ -102,7 +102,7 @@ Performs checks on your model’s metrics and consistency.
 ```bash
 python app.py
 ```
-Access the interface at **http://localhost:5000**
+Access the interface at **https://project-samarth-mb2ede2mcettp6niresjeu.streamlit.app/**
 
 ---
 
